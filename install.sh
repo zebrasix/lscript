@@ -108,5 +108,5 @@ sleep 1
 clear
 echo -e "Open a NEW terminal and type 'l' to launch the script"
 sleep  4
-gnome-terminal -- l
 exit
+
